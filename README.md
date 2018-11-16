@@ -1,5 +1,7 @@
 # Computer Vision Projects Using DL
-This projects include following section:
+
+My major is application of Machine learning (especially deep learning) in PHM(Prognostic and Health Management). Deep learning has a wide range of applications. In order to learn the deep learning technology comprehensively, I will explore the application of deep learning in other fields. And this repository is about computer vision including following sections:
+
 - Images classification
 - Target detection
 - Semantic segmentation
@@ -8,3 +10,8 @@ This projects include following section:
 - GAN
 - VAE
 - DeepDream
+
+This repository will be updated continuously, welcome your attention.If you have any questions or criticism and suggestions, you can put them on issues. My e-mail: lixudong16@mails.ucas.ac.cn, my personal website: lixudong.store
+
+## Update log:
+- 16/11/2018: completed DeepDream
