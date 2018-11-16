@@ -9,7 +9,7 @@ K.set_learning_phase(0)
 
 # load model
 model = inception_v3.InceptionV3(weights=None, include_top=False)
-model.load_weights('/search/odin/lixudong/code_work/baidu_tiangong/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5')
+model.load_weights('/models/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5')
 model.summary()
 
 # DeepDream setting
