@@ -11,7 +11,15 @@ My major is application of Machine learning (especially deep learning) in PHM(Pr
 - VAE
 - DeepDream
 
-This repository will be updated continuously, welcome your attention.If you have any questions or criticism and suggestions, you can put them on issues. My e-mail: lixudong16@mails.ucas.ac.cn, my personal website: lixudong.store
+This repository will be updated continuously, welcome your attention.If you have any questions or criticism and suggestions, you can put them on issues. 
+
+**Contact me:**
+
+E-mail: lixudong16@mails.ucas.ac.cn
+
+Personal website: lixudong.store
+
+Wechat ID: wuan3076
 
 ## Update log:
 - 16/11/2018: completed DeepDream
