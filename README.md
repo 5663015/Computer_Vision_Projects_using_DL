@@ -10,6 +10,7 @@ My major is application of Machine learning (especially deep learning) in PHM(Pr
 - GAN
 - VAE
 - DeepDream
+- Transfer learning
 
 This repository will be updated continuously, welcome your attention.If you have any questions or criticism and suggestions, you can put them on issues. 
 
