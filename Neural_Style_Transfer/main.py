@@ -46,7 +46,7 @@ input_tensor = K.concatenate([target_image, style_reference_image, combination_i
 
 # load model
 model = vgg19.VGG19(input_tensor=input_tensor, weights=None, include_top=False)
-model.load_weights('/search/odin/lixudong/code_work/baidu_tiangong/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5')
+model.load_weights('./model/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5')
 model.summary()
 
 # content loss
