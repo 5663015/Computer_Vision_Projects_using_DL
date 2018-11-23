@@ -24,3 +24,4 @@ Wechat ID: wuan3076
 
 ## Update log:
 - 16/11/2018: completed DeepDream
+- 21/11/2018: completed Visualization
