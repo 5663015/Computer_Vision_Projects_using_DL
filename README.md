@@ -29,6 +29,7 @@ My major is application of Machine learning (especially deep learning) in PHM(Pr
 - Transfer learning
     - Fine-tune
     - Domain adversarial neural network
+- Application of DL in Raspberry pie
 
 This repository will be updated continuously, welcome your attention.If you have any questions or criticism and suggestions, you can put them on issues. 
 
