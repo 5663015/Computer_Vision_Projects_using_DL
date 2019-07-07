@@ -89,10 +89,10 @@ def test(test_path):
 	prediction = np.where(prediction >= 0.5, 1, prediction)
 	prediction = np.where(prediction < 0.5, 0, prediction)
 
-	# 评估
+	# classification report
 	print("Precision, Recall and F1-Score...")
 	print(metrics.classification_report(labels, prediction, target_names=['cat', 'dog']))
-	# 混淆矩阵
+	# confusion matrix
 	print("Confusion Matrix...")
 	cm = metrics.confusion_matrix(labels, prediction)
 	print(cm)
